@@ -62,7 +62,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p>
   
   <a href="https://ebn-omier.github.io/myPortfolio/">
      <img alt="Website" src="https://img.shields.io/badge/-my_Website-blue?style=flat-square&logo=google-chrome"></a>
