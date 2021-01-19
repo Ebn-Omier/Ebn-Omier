@@ -65,19 +65,19 @@
 <p>
   
   <a href="https://ebn-omier.github.io/myPortfolio/">
-     <img alt="Website" src="https://img.shields.io/badge/-my_Website-294d75?style=flat&logo=google-chrome"></a>
+     <img alt="Website" src="https://img.shields.io/badge/-my_Website-294d75?style=plastice&logo=google-chrome"></a>
 
   <a href="https://www.linkedin.com/in/musaab-ebn-omeir-abdalla-9373b51a4/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-294d75?style=plastice&logo=linkedin"></a>
   
   <a href="https://www.facebook.com/taw.saab">
-    <img alt="Facebook" src="https://img.shields.io/badge/_-facebook-294d75?style=flat-square&logo=Facebook"></a>
+    <img alt="Facebook" src="https://img.shields.io/badge/_-facebook-294d75?style=plastice&logo=Facebook"></a>
 
   <a href="https://www.instagram.com/ebn_omier/">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-294d75?style=flat-square&logo=instagram"></a>
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-294d75?style=plastice&logo=instagram"></a>
 
   <a href="mailto:saab.musaab@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-saab.musaab@gmail.com-294d75?style=flat&logo=gmail"></a>
+    <img alt="Email" src="https://img.shields.io/badge/Email-saab.musaab@gmail.com-294d75?style=plastice&logo=gmail"></a>
 
 </p>
 
