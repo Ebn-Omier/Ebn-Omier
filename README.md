@@ -1,4 +1,4 @@
-<img align='right' src="https://github.com/Ebn-Omier/myPortfolio/blob/master/img/me.jpg" width="230">
+<img align='right' src="https://raw.githubusercontent.com/Ebn-Omier/myInfo/master/images/IMG-20201212-WA0020.jpg" width="230">
 
 
 <h2> Hey there! 👋 I'm Musaab.</h2>
