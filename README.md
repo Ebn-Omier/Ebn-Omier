@@ -27,7 +27,7 @@
 - 🛢 &nbsp;
   ![wordpress](https://img.shields.io/badge/-wordpress-333333?style=flat&logo=wordpress)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![wordpress](https://img.shields.io/badge/-wordpress-333333?style=flat&logo=wordpress)
+  ![heroku](https://img.shields.io/badge/-heroku-333333?style=flat&logo=heroku)
   ![firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
