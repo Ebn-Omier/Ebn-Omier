@@ -71,7 +71,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   
   <a href="https://www.facebook.com/taw.saab">
-    <img alt="Facebook" src="https://img.shields.io/badge/_-facebook-blue?style=flat-#f00&logo=Facebook"></a>
+    <img alt="Facebook" src="https://img.shields.io/badge/_-facebook-#f00?style=flat-square&logo=Facebook"></a>
 
   <a href="https://www.instagram.com/ebn_omier/">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram"></a>
