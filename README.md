@@ -68,7 +68,7 @@
 <a href="https://ebn-omier.github.io/myPortfolio/">
    <img alt="Website" src="https://img.shields.io/badge/Website-Ebn-Omier-blue?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/musaab-ebn-omeir-abd-alla-9373b51a4">
+<a href="https://www.linkedin.com/in/musaab-ebnomeir-abd-alla-9373b51a4">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Musaab%ebn%Omeir%Abdalla-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/adityavs_/">
