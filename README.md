@@ -74,8 +74,8 @@
 <a href="https://www.instagram.com/ebn_omier/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Musaab_EbnOmier-blue?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:avsingh@umass.edu">
-  <img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:saab.musaab@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-saab@gmail.edu-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
