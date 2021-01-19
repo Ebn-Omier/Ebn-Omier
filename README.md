@@ -36,7 +36,7 @@
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![sublime](https://img.shields.io/badge/-sublime-333333?style=flat&logo=sublime)
+  ![sublimetext](https://img.shields.io/badge/-sublimetext-333333?style=flat&logo=sublimetext)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
