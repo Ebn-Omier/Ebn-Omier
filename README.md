@@ -77,7 +77,7 @@
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-294d75?style=flat-square&logo=instagram"></a>
 
   <a href="mailto:saab.musaab@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-saab.musaab@gmail.com-294d75?style=flat-square&logo=gmail"></a>
+    <img alt="Email" src="https://img.shields.io/badge/Email-saab.musaab@gmail.com-294d75?style=flat&logo=gmail"></a>
 
 </p>
 
