@@ -1,5 +1,5 @@
 ### Hi 👋
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://github.com/Ebn-Omier/myPortfolio/blob/master/img/me.jpg" width="230">
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Hey there! I'm Aditya.</h2>
