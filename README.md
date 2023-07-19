@@ -64,7 +64,7 @@
 
 <p>
   
-  <a href="https://ebn-omier.github.io/myPortfolio/">
+  <a href="[https://ebn-omier.github.io/myPortfolio/](http://ebnomair.com/)">
      <img alt="Website" src="https://img.shields.io/badge/-my_Website-294d75?style=plastice&logo=google-chrome"></a>
 
   <a href="https://www.linkedin.com/in/musaab-ebn-omeir-abdalla-9373b51a4/">
